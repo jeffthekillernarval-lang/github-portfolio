@@ -4,7 +4,7 @@ function scrollToSection(id) {
 }
 
 // Typing effect
-const text = "Web Developer · Networking · UI Design";
+const text = "Game Developer · Networking · UI Design · Web Developer";
 let index = 0;
 
 function typeEffect() {
